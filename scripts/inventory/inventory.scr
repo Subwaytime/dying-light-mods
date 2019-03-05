@@ -8909,7 +8909,7 @@ sub main()
         DamageRange(165.0 *0.01);
         DamageToPhysicsObjects(50.0);
         PhysicsDamageMul(1.0);
-        StaminaUsage(0.4);
+        StaminaUsage(0.6);
         HeadSmashProb(0.0);
         HeadCutProb(1.0);
         ArmsCutProb(1.0);
