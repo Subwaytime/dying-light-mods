@@ -309,14 +309,14 @@
     <prop n="QuickSlotsCount" v="4"/>
     <prop n="InventorySize" v="4"/>
 
-    <prop n="SwimMoveSpeed" v="1.5"/>
-    <prop n="SwimSprintSpeed" v="2.0"/>
+    <prop n="SwimMoveSpeed" v="2.5"/>
+    <prop n="SwimSprintSpeed" v="3.0"/>
     <prop n="SwimImpulsSpeed" v="35.0"/>
     <prop n="SwimStrafeSpeed" v="0.7"/>
     <prop n="SwimAcceleration" v="0.7"/>
 
     <prop n="SwimJumpHeight" v="0.7"/>
-    <prop n="SwimOxygenUsage" v="0.02"/>
+    <prop n="SwimOxygenUsage" v="0.05"/>
     <prop n="SwimInhaleIncrease" v="0.1"/>
 
     <prop n="MoveForwardMinSpeed" v="0.5"/>
