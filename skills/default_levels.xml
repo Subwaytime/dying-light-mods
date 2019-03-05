@@ -313,7 +313,7 @@
     <prop n="SwimSprintSpeed" v="3.0"/>
     <prop n="SwimImpulsSpeed" v="35.0"/>
     <prop n="SwimStrafeSpeed" v="0.7"/>
-    <prop n="SwimAcceleration" v="0.7"/>
+    <prop n="SwimAcceleration" v="0.8"/>
 
     <prop n="SwimJumpHeight" v="0.7"/>
     <prop n="SwimOxygenUsage" v="0.05"/>
