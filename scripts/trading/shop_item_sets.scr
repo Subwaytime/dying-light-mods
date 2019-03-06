@@ -3,9 +3,9 @@ sub main()
 
 	ItemSet("Ammo_Items")
 	{
-		Item("Craftplan_AmmoPistol");
-		Item("Craftplan_AmmoRifle");
-		Item("Craftplan_AmmoShotgun");
+		Item("Craftplan_Pistol_Ammunition");
+		Item("Craftplan_Rifle_Ammunition");
+		Item("Craftplan_Shotgun_Ammunition");
 	}
 
     ItemSet("Bow")                //ItemID, Weight. Default WEIGHT is 1.
