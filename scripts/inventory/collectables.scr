@@ -1,10 +1,10 @@
 import "inventorystuff.scr"
 sub main()
 {
-	Item("Craftplan_AmmoPistol", CategoryType_Collectable)
+	Item("Craftplan_Pistol_Ammunition", CategoryType_Collectable)
 	{
-		Name("&Craft_Pistol_Ammunition_N&");
-		Description("&Craft_Pistol_Ammunition_D&");
+		Name("&Craftplan_Pistol_Ammunition_N&");
+		Description('&Craftplan_Pistol_Ammunition_D&');
 		ItemType(ItemType_CraftPlan);
 		Price(25000);
 		Mesh("blueprint.msh");
@@ -16,10 +16,10 @@ sub main()
 		HudIcon("ammo_pistol");
 	}
 
-	Item("Craftplan_AmmoRifle", CategoryType_Collectable)
+	Item("Craftplan_Rifle_Ammunition", CategoryType_Collectable)
 	{
-		Name("&Craft_Rifle_Ammunition_N&");
-		Description("&Craft_Rifle_Ammunition_D&");
+		Name("&Craftplan_Rifle_Ammunition_N&");
+		Description('&Craftplan_Rifle_Ammunition_D&');
 		ItemType(ItemType_CraftPlan);
 		Price(25000);
 		Mesh("blueprint.msh");
@@ -31,10 +31,10 @@ sub main()
 		HudIcon("ammo_rifle");
 	}
 
-	Item("Craftplan_AmmoShotgun", CategoryType_Collectable)
+	Item("Craftplan_Shotgun_Ammunition", CategoryType_Collectable)
 	{
-		Name("&Craft_Shotgun_Ammunition_N&");
-		Description("&Craft_Shotgun_Ammunition_D&");
+		Name("&Craftplan_Shotgun_Ammunition_N&");
+		Description('&Craftplan_Shotgun_Ammunition_D&');
 		ItemType(ItemType_CraftPlan);
 		Price(25000);
 		Mesh("blueprint.msh");
