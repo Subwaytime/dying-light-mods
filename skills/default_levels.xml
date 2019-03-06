@@ -315,7 +315,7 @@
     <prop n="SwimStrafeSpeed" v="0.7"/>
     <prop n="SwimAcceleration" v="0.8"/>
 
-    <prop n="SwimJumpHeight" v="0.7"/>
+    <prop n="SwimJumpHeight" v="0.8"/>
     <prop n="SwimOxygenUsage" v="0.05"/>
     <prop n="SwimInhaleIncrease" v="0.1"/>
 
@@ -327,7 +327,7 @@
     <prop n="ChargeMoveBackwardMaxSpeed" v="2.0"/>
     <prop n="MoveStrafeMinSpeed" v="0.5"/>
     <prop n="MoveStrafeMaxSpeed" v="2.5"/>
-    <prop n="MoveSprintSpeed" v="7.0"/>
+    <prop n="MoveSprintSpeed" v="6.5"/>
     <prop n="MoveAcceleration" v="40.0"/>
     <prop n="MoveSprintAcceleration" v="10.0"/>
     <prop n="MoveDeceleration" v="40.0"/>
@@ -399,8 +399,8 @@
     <prop n="AimCrouchDeceleration" v="10.0"/>
 
     <prop n="JumpStaminaCost" v="0.1"/>
-    <prop n="JumpMaxHeight" v="1.01"/>
-    <prop n="JumpMinHeight" v="1.01"/>
+    <prop n="JumpMaxHeight" v="1.025"/>
+    <prop n="JumpMinHeight" v="1.025"/>
 
 
 
