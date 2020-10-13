@@ -1,10 +1,8 @@
-# Nophase Studio
-
-### Community Mods
+# Community Mods 
 
 ### Version
 
-These Mods work with the latest Dying Light Version (1.16) and the Following DLC!
+These Mods work with the latest Dying Light Version (1.16) and the `Following` DLC!
 
 ### Installation
 
